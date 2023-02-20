@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edac4b8-9d1d-4684-a480-da8227ddf9f4" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bep/s1/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bep/s1/demo/Main.java" afterDir="false" />
+    <list default="true" id="5edac4b8-9d1d-4684-a480-da8227ddf9f4" name="Changes" comment="added method to divide two numbers">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676878439273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added method to add two numbers">
+      <created>1676878801535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676878801535</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added method to subtract two numbers">
+      <created>1676878823850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676878823850</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added method to multiply two numbers">
+      <created>1676878839960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676878839960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added method to divide two numbers">
+      <created>1676878868845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676878868845</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +104,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added method to add two numbers" />
+    <MESSAGE value="added method to subtract two numbers" />
+    <MESSAGE value="added method to multiply two numbers" />
+    <MESSAGE value="added method to divide two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="added method to divide two numbers" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
