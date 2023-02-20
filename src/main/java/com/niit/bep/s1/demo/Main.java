@@ -16,4 +16,8 @@ public class Main {
         } else return firstNumber - secondNumber;
     }
 
+    public double multiply(double firstNumber, double secondNumber) {
+        return firstNumber * secondNumber;
+    }
+
 }
