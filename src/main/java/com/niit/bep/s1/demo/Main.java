@@ -10,4 +10,10 @@ public class Main {
         return firstNumber + secondNumber;
     }
 
+    public double subtract(double firstNumber, double secondNumber) {
+        if (secondNumber > firstNumber) {
+            return secondNumber - firstNumber;
+        } else return firstNumber - secondNumber;
+    }
+
 }
